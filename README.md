@@ -1,3 +1,3 @@
 # clone-tabnews
 
-Learning project - clone of  <https://www.tabnews.com.br>
+Learning project - clone of <https://www.tabnews.com.br>
